@@ -23,5 +23,4 @@ var addTwoNumbers = function (l1, l2) {
         l2 = l2.next;
     }
     return output.next;
-
 };
